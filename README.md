@@ -1,1 +1,1 @@
-identify hand written digits using Digit Recognition.
+identify hand written digits using Digit Recognition..
